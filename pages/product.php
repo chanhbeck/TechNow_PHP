@@ -34,7 +34,7 @@
           <span><strong>Status:</strong> 100% New</span><br>
           <span><strong>Guarantee:</strong> 24 months</span>
         </p>
-        <span class="price-text">Price:</span>
+        <span class="price-text">Price: </span>
         <span class="product-price"> 3,990,000₫ </span>
         <br>
         <a class="btn btn-primary w-50 buy-now mt-3" href="#" role="button">Buy Now</a>
